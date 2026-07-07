@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Node.js-E0115F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-I prefer building systems that are observable, maintainable, and secure over shipping features quickly. My work focuses on uncompromising architectural integrity—implementing server-side authentication guards, enforcing airtight Row Level Security (RLS) at the database tier, and writing resilient code engineered to scale gracefully under active client deadlines.
+I prefer building systems that are observable, maintainable, and secure over shipping features quickly. My work focuses on uncompromising architectural integrity implementing server-side authentication guards, enforcing airtight Row Level Security (RLS) at the database tier, and writing resilient code engineered to scale gracefully under active client deadlines.
 
 ---
 
@@ -29,7 +29,7 @@ I prefer building systems that are observable, maintainable, and secure over shi
 ### **[Sauti-AI](https://github.com/buildbyruby/sauti-ai)**
 **Local Dialect Speech Recognition Engine**
 > `Node.js` • `TypeScript` • `Next.js`
-* ✓ Engineered a high-performance inference engine tailored specifically for processing local Swahili dialects.
+* ✓ Engineered a high-performance inference engine tailored specifically for processing African dialects.
 * ✓ Designed real-time audio processing streams with sub-second inference latency.
 * ✓ Optimized production deployment to handle high-volume concurrent streams.
 
