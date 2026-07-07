@@ -1,7 +1,12 @@
 # ─── 🔮 RUBY KITULI ───
 ### *Full Stack Engineer & Digital Architect*
 <p left="center">
-  <code><strong>Next.js</strong></code> • <code><strong>TypeScript</strong></code> • <code><strong>Tailwind CSS</strong></code> • <code><strong>Supabase</strong></code> • <code><strong>Prisma</strong></code> • <code><strong>Node.js</strong></code>
+  <img src="https://img.shields.io/badge/Next.js-FF007F?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FF1493?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-DB7093?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-C71585?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-E0115F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 I design and deploy high-performance web ecosystems. My focus centers on uncompromising architectural integrity—implementing robust server-side authentication guards, hardening active sessions, and establishing airtight Row Level Security (RLS) policies. I engineer clean, resilient code designed to scale seamlessly under demanding production workflows.
