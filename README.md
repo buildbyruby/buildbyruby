@@ -1,10 +1,11 @@
 # ─── 💕 RUBY KITULI 💕 ───
-### *Production Software Engineer & Digital Architect*
-<p left="center">
-  <em>Building secure, scalable web platforms with Next.js, TypeScript, Supabase, and Prisma.</em>
+### *Full-Stack Developer Building Production Web & AI Systems*
+
+<p align="center">
+  <em>Next.js, TypeScript, Supabase, and Prisma — shipped to real clients, not just portfolio demos.</em>
 </p>
 
-<p left="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-FF007F?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-FF1493?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -13,55 +14,62 @@
   <img src="https://img.shields.io/badge/Node.js-E0115F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-I prefer building systems that are observable, maintainable, and secure over shipping features quickly. My work focuses on uncompromising architectural integrity implementing server-side authentication guards, enforcing airtight Row Level Security (RLS) at the database tier, and writing resilient code engineered to scale gracefully under active client deadlines.
+I build systems that go into production and get used by real customers, three of my e-commerce platforms are live today processing real orders for paying clients, including one in China. I care about clean data models, proper auth, and code that holds up once a client is actually depending on it.
 
 ---
 
-## 🚀 Production Ecosystems
+## 🚀 Production Projects
 
 ### **[BNS Online Shop](https://github.com/buildbyruby/bns-online-shop)**
-**Premium Retail Management Ecosystem**
+**Multi-Role E-Commerce Platform**
 > `Next.js` • `Supabase` • `Tailwind CSS`
-* ✓ Deployed complex administrator and sales portals featuring localized product carousel logic.
-* ✓ Implemented strict Role-Based Access Control (RBAC) and SSR authentication architecture.
-* ✓ Enforced granular RLS policies for secure, scalable transaction handling.
 
-### **[Sauti-AI](https://github.com/buildbyruby/sauti-ai)**
-**Local Dialect Speech Recognition Engine**
-> `Node.js` • `TypeScript` • `Next.js`
-* ✓ Engineered a high-performance inference engine tailored specifically for processing African dialects.
-* ✓ Designed real-time audio processing streams with sub-second inference latency.
-* ✓ Optimized production deployment to handle high-volume concurrent streams.
+* ✓ Built a commissioned storefront for a real client, live today processing real customer orders
+* ✓ Designed separate dashboards for store administrators and order processors
+* ✓ Implemented Supabase Auth for account access and full catalog, checkout, and order tracking
+
+### **[Sauti AI](https://github.com/buildbyruby/sauti-ai)**
+**Multilingual Voice AI Assistant**
+> `Node.js` • `TypeScript` • `Next.js` • `Twilio` • `Groq`
+
+* ✓ Built a voice assistant supporting Swahili, Sheng, Kikuyu, and Yoruba, reachable via web chat or live phone call
+* ✓ Designed the full request pipeline: security check, Supabase conversation history, Groq (Llama 3.3 70B) for the reply, Google Text-to-Speech for audio
+* ✓ Integrated Twilio so phone callers get the same assistant in a continuous speak-and-listen loop
 
 ### **[Unique Organizers](https://github.com/buildbyruby/unique-organizers)**
-**Acquired E-Commerce Infrastructure**
+**Cross-Border Wholesale Marketplace — Sold**
 > `Next.js` • `Prisma` • `PostgreSQL`
-* ✓ Built comprehensive e-commerce infrastructure entirely from scratch, resulting in a successful sale to a private buyer.
-* ✓ Architected advanced inventory APIs, routing, and secure cart state management.
-* ✓ Designed highly optimized relational database schemas utilizing Prisma.
+
+* ✓ Built solo for a client in China, architected for cross-border bulk commerce
+* ✓ Implemented tiered pricing for resellers, M-Pesa checkout, and WhatsApp ordering
+* ✓ Sold to the operator, who runs it commercially today; live and processing real orders
 
 ### **[Hire-IQ](https://github.com/buildbyruby/Hire-IQ)**
-**AI-Driven HR Recruitment Engine**
-> `TypeScript` • `Next.js` • `Node.js`
-* ✓ Automated talent pipeline management and scheduling operations.
-* ✓ Optimized candidate validation logic and internal data workflows.
-* ✓ Established enterprise-grade data security and session hardening protocols.
+**AI Recruitment & Workforce Platform**
+> `TypeScript` • `Next.js` • `Node.js` • `Groq`
+
+* ✓ Generates a 0–100 ATS match score by extracting resume text server-side and sending it with the job description to Groq's Llama 3.3 70B
+* ✓ Returns a written breakdown of candidate strengths, weaknesses, and suggestions
+* ✓ Added a live employee directory with real-time clock in/out tracking
 
 ### **[Finance Tracker](https://github.com/buildbyruby/Finance-Tracker)**
-**Secure Financial Ledger**
+**Personal Fintech Tracker**
 > `React` • `Supabase` • `TypeScript`
-* ✓ Engineered real-time transactional tracking with strict cryptographic data integrity.
-* ✓ Deployed a secure double-entry ledger architecture.
-* ✓ Leveraged live subscriptions for high-speed, low-latency data fetching.
+
+* ✓ Built a personal finance tracker with M-Pesa transaction sync
+* ✓ Generates AI-powered weekly spending summaries
+* ✓ Shipped solo: frontend, backend, and database
 
 ---
 
-## ☁️ Deployment & Infrastructure
-<p left="center">
-  <code><strong>Production Ready</strong></code> • <code><strong>Vercel</strong></code> • <code><strong>Supabase</strong></code> • <code><strong>Cloudflare</strong></code> • <code><strong>GitHub Actions</strong></code>
+## ☁️ Deployment
+
+<p align="center">
+  <code><strong>Vercel</strong></code> • <code><strong>Supabase</strong></code> • <code><strong>GitHub</strong></code>
 </p>
 
 ---
 
 ## 🌐 Connect
-* **LinkedIn** — [linkedin.com/in/rubykituli](https://www.linkedin.com/in/rubykituli/)
+
+* **LinkedIn** — [linkedin.com/in/rubykitulii](https://www.linkedin.com/in/rubykitulii/)
