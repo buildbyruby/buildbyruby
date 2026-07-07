@@ -17,35 +17,32 @@
 
 ---
 
-## 👋 About me
+### 👋 About me
 
-I'm a freelance software engineer who builds real, client-facing web applications—not tutorials or toy projects.
+I'm a freelance software engineer who builds real, client-facing web applications — not tutorials, not toy projects. Right now that means shipping a full e-commerce staff management platform for a client with a live launch on the line: authentication, role-based dashboards, and production security, built end-to-end on Next.js and Supabase.
 
-Right now I'm shipping a production e-commerce staff management platform with authentication, role-based dashboards, and enterprise-grade security using Next.js and Supabase.
-
-I care about building software the right way: server-side authentication, Row Level Security, maintainable architecture, and clean user experiences.
+I care about doing things properly — server-side auth over client-side shortcuts, Row Level Security over "it works on my machine," honest debugging over quick patches.
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 What I'm building
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[BNS Online Shop](https://github.com/buildbyruby/bns-online-shop)** | E-commerce staff management platform | Next.js · Supabase · TypeScript |
+| Project | What it is | Stack |
+|---|---|---|
+| **[BNS Online Shop](https://github.com/buildbyruby/bns-online-shop)** | E-commerce staff management platform — admin, sales & order-processing dashboards with role-based access control | Next.js, Supabase, TypeScript |
 | **[Sauti-AI](https://github.com/buildbyruby/sauti-ai)** | AI-powered application | TypeScript |
-| **[Hire-IQ](https://github.com/buildbyruby/Hire-IQ)** | AI recruitment platform | TypeScript |
-| **[Finance Tracker](https://github.com/buildbyruby/Finance-Tracker)** | Personal finance dashboard | TypeScript |
-| **[Unique Organizers](https://github.com/buildbyruby/unique-organizers)** | Sales management application | TypeScript |
+| **[Hire-IQ](https://github.com/buildbyruby/Hire-IQ)** | AI-assisted HR recruitment management system | TypeScript |
+| **[Finance-Tracker](https://github.com/buildbyruby/Finance-Tracker)** | Personal finance tracking tool | TypeScript |
+| **[Unique-Organizers](https://github.com/buildbyruby/unique-organizers)** | Sales application | TypeScript |
 
 ---
 
-## 💼 What I Do
+### 🔧 What I actually do
 
-- 🚀 Ship production software for real clients
-- 🔐 Build secure authentication with Supabase RLS
-- ⚡ Develop scalable full-stack applications
-- 🤖 Integrate AI into modern web products
-- 🎨 Create clean, responsive user experiences
+- Ship production apps for paying clients under real deadlines
+- Own security end-to-end — RLS policies, server-side auth guards, session hardening via `@supabase/ssr`
+- Debug live production incidents, not just clean demos
+- Migrate fragile client-side auth patterns into proper server-side architecture
 
 ---
 
