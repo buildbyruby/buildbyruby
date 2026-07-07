@@ -1,4 +1,4 @@
-# ─── 🔮 RUBY KITULI ───
+# ─── 🛑 RUBY KITULII 🛑 ───
 ### *Full Stack Engineer & Digital Architect*
 <p left="center">
   <img src="https://img.shields.io/badge/Next.js-FF007F?style=for-the-badge&logo=nextdotjs&logoColor=white" />
