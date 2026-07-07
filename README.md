@@ -1,4 +1,4 @@
-# ─── 🔮 RUBY KITULII ───
+# ─── 🔮 RUBY KITULI ───
 ### *Full Stack Engineer & Digital Architect*
 <p left="center">
   <code><strong>Next.js</strong></code> • <code><strong>TypeScript</strong></code> • <code><strong>Tailwind CSS</strong></code> • <code><strong>Supabase</strong></code> • <code><strong>Prisma</strong></code> • <code><strong>Node.js</strong></code>
